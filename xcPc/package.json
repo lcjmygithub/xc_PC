@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@riophae/vue-treeselect": "^0.1.0",
-    "axios": "^0.15.3",
+    "axios": "^0.18.1",
     "echarts": "^3.4.0",
     "goeasy": "^1.0.3",
     "iview": "^3.4.2",
