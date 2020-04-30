@@ -14,7 +14,7 @@
     "echarts": "^3.4.0",
     "goeasy": "^1.0.3",
     "iview": "^3.4.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nprogress": "^0.2.0",
     "optimize-css-assets-webpack-plugin": "^2.0.0",
     "uglifyjs-webpack-plugin": "^1.0.0",
